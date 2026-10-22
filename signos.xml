@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<signos>
+
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <imagem>aries.png</imagem>
+        <descricao>Áries é um signo conhecido por sua coragem, iniciativa, energia e determinação.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <imagem>touro.png</imagem>
+        <descricao>Touro é um signo conhecido por sua determinação, estabilidade, paciência e praticidade.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <imagem>gemeos.png</imagem>
+        <descricao>Gêmeos é um signo comunicativo, curioso, versátil e que gosta de aprender coisas novas.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <imagem>cancer.png</imagem>
+        <descricao>Câncer é um signo sensível, protetor, emocional e muito ligado à família.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <imagem>leao.png</imagem>
+        <descricao>Leão é um signo confiante, criativo, generoso e conhecido por sua liderança.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <imagem>virgem.png</imagem>
+        <descricao>Virgem é um signo organizado, detalhista, responsável e bastante prático.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <imagem>libra.png</imagem>
+        <descricao>Libra é um signo que valoriza o equilíbrio, a harmonia, a justiça e os relacionamentos.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <imagem>escorpiao.png</imagem>
+        <descricao>Escorpião é um signo intenso, determinado, profundo e muito observador.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <imagem>sargitario.png</imagem>
+        <descricao>Sagitário é um signo aventureiro, otimista, independente e apaixonado por novas experiências.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <imagem>capricornio.png</imagem>
+        <descricao>Capricórnio é um signo responsável, disciplinado, ambicioso e focado em seus objetivos.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <imagem>aquario.png</imagem>
+        <descricao>Aquário é um signo independente, criativo, inovador e que valoriza a liberdade.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <imagem>peixes.png</imagem>
+        <descricao>Peixes é um signo sensível, intuitivo, imaginativo e conhecido por sua empatia.</descricao>
+    </signo>
+
+</signos>
+
